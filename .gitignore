@@ -56,3 +56,5 @@ test/test_runner
 tools/*
 rootfs/*
 .vscode/*
+sysroot-relativelinks.py
+*.png
